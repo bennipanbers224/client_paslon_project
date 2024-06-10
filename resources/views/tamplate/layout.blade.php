@@ -55,13 +55,11 @@
                 <a href="#home" class="nav-item nav-link active">Home</a>
                 <a href="#about" class="nav-item nav-link">Visi & Misi</a>
                 <a href="#skill" class="nav-item nav-link">Profil</a>
-                <a href="#service" class="nav-item nav-link">Services</a>
+                <a href="#service" class="nav-item nav-link">Program</a>
             </div>
             <div class="navbar-nav me-auto py-0">
-                <a href="#project" class="nav-item nav-link">Projects</a>
-                <a href="#team" class="nav-item nav-link">Team</a>
-                <a href="#testimonial" class="nav-item nav-link">Testimonial</a>
-                <a href="#contact" class="nav-item nav-link">Contact</a>
+                <a href="#project" class="nav-item nav-link">Galeri</a>
+                <a href="#contact" class="nav-item nav-link">Kontak</a>
             </div>
         </div>
     </nav>

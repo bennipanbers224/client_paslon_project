@@ -68,7 +68,7 @@
             <div class="container">
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="display-5 mb-5">Profile Paslon Bupati dan Wakil Bupati</h1>
+                        <h1 class="display-5 mb-5">Profil Paslon Bupati dan Wakil Bupati</h1>
                         <div class="container-xxl py-6 pb-5" id="team">
                             <div class="container">
                                 <div class="row g-4">
@@ -80,7 +80,7 @@
                                                     <h5>Turman</h5>
                                                     <span>Calon Bupati</span>
                                                 </div>
-                                                <i class="fa fa-arrow-right fa-2x text-primary"></i>
+                                                <a href="/profile"><i class="fa fa-arrow-right fa-2x text-primary"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -111,10 +111,10 @@
             <div class="container">
                 <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="col-lg-6">
-                        <h1 class="display-5 mb-0">My Services</h1>
+                        <h1 class="display-5 mb-0">Program</h1>
                     </div>
                     <div class="col-lg-6 text-lg-end">
-                        <a class="btn btn-primary py-3 px-5" href="">Hire Me</a>
+                        <a class="btn btn-primary py-3 px-5" href="">Lainnya</a>
                     </div>
                 </div>
                 <div class="row g-4">
@@ -124,7 +124,7 @@
                                 <i class="fa fa-crop-alt fa-2x text-dark"></i>
                             </div>
                             <div class="ms-sm-4">
-                                <h4 class="mb-3">Creative Design</h4>
+                                <h4 class="mb-3">Makan Gratis</h4>
                                 <h6 class="mb-3">Start from <span class="text-primary">$199</span></h6>
                                 <span>Stet lorem dolor diam amet vero eos. No stet est diam amet diam ipsum. Clita dolor duo clita sit sed sit dolor eos.</span>
                             </div>
@@ -136,7 +136,7 @@
                                 <i class="fa fa-code-branch fa-2x text-dark"></i>
                             </div>
                             <div class="ms-sm-4">
-                                <h4 class="mb-3">Graphic Design</h4>
+                                <h4 class="mb-3">Makan Gratis</h4>
                                 <h6 class="mb-3">Start from <span class="text-primary">$199</span></h6>
                                 <span>Stet lorem dolor diam amet vero eos. No stet est diam amet diam ipsum. Clita dolor duo clita sit sed sit dolor eos.</span>
                             </div>
@@ -148,7 +148,7 @@
                                 <i class="fa fa-code fa-2x text-dark"></i>
                             </div>
                             <div class="ms-sm-4">
-                                <h4 class="mb-3">Web Design</h4>
+                                <h4 class="mb-3">Makan Gratis</h4>
                                 <h6 class="mb-3">Start from <span class="text-primary">$199</span></h6>
                                 <span>Stet lorem dolor diam amet vero eos. No stet est diam amet diam ipsum. Clita dolor duo clita sit sed sit dolor eos.</span>
                             </div>
@@ -160,7 +160,7 @@
                                 <i class="fa fa-laptop-code fa-2x text-dark"></i>
                             </div>
                             <div class="ms-sm-4">
-                                <h4 class="mb-3">UI/UX Design</h4>
+                                <h4 class="mb-3">Makan Gratis</h4>
                                 <h6 class="mb-3">Start from <span class="text-primary">$199</span></h6>
                                 <span>Stet lorem dolor diam amet vero eos. No stet est diam amet diam ipsum. Clita dolor duo clita sit sed sit dolor eos.</span>
                             </div>
@@ -177,15 +177,15 @@
             <div class="container">
                 <div class="row g-5 mb-5 align-items-center wow fadeInUp" data-wow-delay="0.1s">
                     <div class="col-lg-6">
-                        <h1 class="display-5 mb-0">My Projects</h1>
+                        <h1 class="display-5 mb-0">Galeri</h1>
                     </div>
-                    <div class="col-lg-6 text-lg-end">
+                    <!-- <div class="col-lg-6 text-lg-end">
                         <ul class="list-inline mx-n3 mb-0" id="portfolio-flters">
                             <li class="mx-3 active" data-filter="*">All Projects</li>
                             <li class="mx-3" data-filter=".first">UI/UX Design</li>
                             <li class="mx-3" data-filter=".second">Graphic Design</li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.1s">
                     <div class="col-lg-4 col-md-6 portfolio-item first">
@@ -372,10 +372,7 @@
             <div class="container py-5">
                 <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="col-lg-6">
-                        <h1 class="display-5 mb-0">Let's Work Together</h1>
-                    </div>
-                    <div class="col-lg-6 text-lg-end">
-                        <a class="btn btn-primary py-3 px-5" href="">Say Hello</a>
+                        <h1 class="display-5 mb-0">Berikan masukan Anda melalui kontak kami : </h1>
                     </div>
                 </div>
                 <div class="row g-5">
@@ -389,7 +386,7 @@
                         <p class="mb-2">Mail me:</p>
                         <h3 class="fw-bold">info@example.com</h3>
                         <hr class="w-100">
-                        <p class="mb-2">Follow me:</p>
+                        <p class="mb-2">Ikuti Kami:</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-facebook-f"></i></a>
