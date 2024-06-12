@@ -77,7 +77,7 @@
                                             <img class="img-fluid rounded" src="img/bupati.jpg" alt="">
                                             <div class="team-text bg-white rounded-end p-4">
                                                 <div>
-                                                    <h5>Turman</h5>
+                                                    <h5>Turman Hutapea</h5>
                                                     <span>Calon Bupati</span>
                                                 </div>
                                                 <a href="/profile"><i class="fa fa-arrow-right fa-2x text-primary"></i></a>
@@ -89,7 +89,7 @@
                                             <img class="img-fluid rounded" src="img/bupati.jpg" alt="">
                                             <div class="team-text bg-white rounded-end p-4">
                                                 <div>
-                                                    <h5>Ronald</h5>
+                                                    <h5>Ronald Panjaitan</h5>
                                                     <span>Calon Wakil Bupati</span>
                                                 </div>
                                                 <i class="fa fa-arrow-right fa-2x text-primary"></i>
